@@ -21,7 +21,7 @@ Um jogo simples de "Adivinhe o Número" criado com HTML, CSS e JavaScript. O obj
 
 1. **Clone o repositório**:
    ```bash
-   git clone https://github.com/seu-usuario/adivinhe-o-numero.git
+   git clone https://github.com/hedimauro260/adivinhe-o-numero.git
    ```
 2. **Acesse o diretório**:
    ```bash
