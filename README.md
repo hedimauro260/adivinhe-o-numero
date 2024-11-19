@@ -49,7 +49,7 @@ Um jogo simples de "Adivinhe o Número" criado com HTML, CSS e JavaScript. O obj
 ```
 adivinhe-o-numero/
 ├── index.html      # Estrutura principal do jogo
-├── style.css       # (Opcional) Estilização adicional
+├── style.css       # Estilização
 └── script.js       # Lógica do jogo em JavaScript
 ```
 
