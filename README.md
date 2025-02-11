@@ -55,7 +55,6 @@ adivinhe-o-numero/
 
 ## 📈 Melhorias Futuras
 
-- Adicionar níveis de dificuldade (ex.: mais números, menos tentativas).
 - Interface mais rica, com efeitos visuais.
 - Implementar modo multiplayer.
 - Adicionar suporte para jogar novamente sem recarregar a página.

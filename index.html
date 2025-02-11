@@ -8,8 +8,13 @@
 </head>
 <body>
     <h1>Adivinhe o Número</h1>
-    <p>O computador escolheu um número entre 1 e 100. Consegue adivinhar?</p>
-
+    <p>O computador escolheu um número. Consegue adivinhar?</p>
+    <label for="difficulty">Escolha o nível de dificuldade:</label>
+    <select name="" id="difficulty">
+        <option value="easy">Fácil (1-50, 10 tentativas)</option>
+        <option value="medium">Médio (1-100, 7 tentativas)</option>
+        <option value="hard">Difícil (1-200, 5 tentativas)</option>
+    </select>
     <input type="number" id="guess" placeholder="Digite seu palpite" />
     <button id="check">Verificar</button>
     <button id="reset" class="hidden">Recomeçar</button>
