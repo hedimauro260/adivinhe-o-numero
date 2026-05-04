@@ -1,6 +1,6 @@
 # Adivinhe o Número 🎲
 
-Um jogo simples de "Adivinhe o Número" criado com HTML, CSS e JavaScript. O objetivo do jogo é adivinhar o número secreto escolhido pelo computador, com base em dicas fornecidas. 
+Um jogo simples de "Adivinhe o Número" criado com HTML, CSS e JavaScript. O objetivo do jogo é adivinhar o número secreto escolhido pelo computador, com base em dicas fornecidas.
 
 ## 📋 Funcionalidades
 
@@ -55,11 +55,16 @@ adivinhe-o-numero/
 
 ## 📈 Melhorias Futuras
 
-- Interface mais rica, com efeitos visuais.
+- Tabela de Recordes (localStorage)
+- Modo Versus (jogar contra IA)
+- Tema Escuro/Claro
+- Voz (ler feedback em voz alta)
+- Dicas progressivas (mostrar se é par/ímpar, múltiplo de 5, etc.)
+- Efeito de partículas ao acertar
+- Som ambiente relaxante
+- Progresso em barras
 - Implementar modo multiplayer.
-- Adicionar suporte para jogar novamente sem recarregar a página.
 
 ## 🧑‍💻 Autor
 
 Desenvolvido por [Hedi Mauro](https://github.com/hedimauro260).
-
